@@ -1,0 +1,15 @@
+﻿@page
+@using GithubSearchApp.Data.Models;
+@model IndexModel
+@{
+    ViewData["Title"] = "Search page";
+}
+
+<h1>GitHub Search</h1>
+
+<form method="post">
+    <div class="input-group mb-3">
+        <input type="text" class="form-control" asp-for="SearchText" placeholder="Enter search text" required>
+        <button type="submit" class="btn btn-primary">Search</button>
+    </div>
+</form>

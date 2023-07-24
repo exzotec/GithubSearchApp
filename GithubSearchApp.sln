@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GithubSearchApp", "GithubSearchApp.csproj", "{5F388388-B15A-444F-89AE-7FEB5D7DC462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F388388-B15A-444F-89AE-7FEB5D7DC462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F388388-B15A-444F-89AE-7FEB5D7DC462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F388388-B15A-444F-89AE-7FEB5D7DC462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F388388-B15A-444F-89AE-7FEB5D7DC462}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {388A7F3D-BE69-4DB5-9723-3D2FB6111100}
+	EndGlobalSection
+EndGlobal
